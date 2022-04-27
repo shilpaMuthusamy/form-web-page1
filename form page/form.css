@@ -1,0 +1,40 @@
+body {
+   width:1512px;
+    background-image: url("dinner.jpg");
+
+}
+h1{
+    color:aquamarine;
+    text-align: left;
+}
+h4 {
+    color: black;
+     text-align: left;
+    font-size: 18px;
+  }
+  table, th, td {
+    border:1px solid black;
+  }
+  table
+  {
+      width: 20%;
+      height: 50px;
+  }
+  input
+  {
+      margin: 0 0 0 10px;
+      width: 60%;
+      padding: 3px 0 5px 3px;
+  }
+  button
+  {
+    
+    color:white;
+    font-size: 15px;
+    cursor:pointer;
+    background-color: orange;
+  }
+  .d1
+  {
+    text-align: center;
+  }
